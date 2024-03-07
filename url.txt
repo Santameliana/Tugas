@@ -1,2 +1,2 @@
-Link deploy 
+Link deploy https://ahns8yjrqwjtwkumwzitby.streamlit.app/
 Link GitHub Repository https://github.com/Santameliana/Tugas/new/main
