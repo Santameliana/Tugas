@@ -19,3 +19,6 @@ streamlit run dashboard.py
 - **Nama**: Santa Meliana
 - **Email**: 616200120@student.unpar.ac.id
 - **ID Dicoding**: M232D4KX1529
+
+Local URL: http://localhost:8501
+Network URL: http://192.168.100.31:8501
