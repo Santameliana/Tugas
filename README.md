@@ -22,3 +22,6 @@ streamlit run dashboard.py
 
 Local URL: http://localhost:8501
 Network URL: http://192.168.100.31:8501
+
+Link deploy https://ahns8yjrqwjtwkumwzitby.streamlit.app/
+Link GitHub Repository https://github.com/Santameliana/Tugas/new/main
